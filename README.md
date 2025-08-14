@@ -13,7 +13,7 @@ Una aplicación de escritorio moderna para descargar y convertir videos de YouTu
 ## 📥 Descarga
 
 ### Versión Pre-compilada (Recomendado)
-Descarga la última versión desde [Releases](https://github.com/TU_USUARIO/youtube-downloader-pyqt6/releases)
+Descarga la última versión desde [Releases](https://github.com/KankoAr/Youtube-downloader-converter/releases)
 
 1. Ve a la sección de Releases
 2. Descarga `YouTube_Downloader.exe` (Windows)
@@ -22,8 +22,8 @@ Descarga la última versión desde [Releases](https://github.com/TU_USUARIO/yout
 ### Desde Código Fuente
 ```bash
 # Clona el repositorio
-git clone https://github.com/TU_USUARIO/youtube-downloader-pyqt6.git
-cd youtube-downloader-pyqt6
+git clone https://github.com/KankoAr/Youtube-downloader-converter.git
+cd Youtube-downloader-converter
 
 # Instala dependencias
 pip install -r requirements.txt
@@ -118,7 +118,7 @@ Esta aplicación es para uso personal y educativo. Respeta los derechos de autor
 ## 🆘 Soporte
 
 Si encuentras algún problema:
-1. Revisa los [Issues](https://github.com/TU_USUARIO/youtube-downloader-pyqt6/issues) existentes
+1. Revisa los [Issues](https://github.com/KankoAr/Youtube-downloader-converter/issues) existentes
 2. Crea un nuevo issue con detalles del problema
 3. Incluye tu versión de Windows y logs de error si es posible
 

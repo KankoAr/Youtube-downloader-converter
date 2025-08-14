@@ -48,10 +48,10 @@ build = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/TU_USUARIO/youtube-downloader-pyqt6"
-Repository = "https://github.com/TU_USUARIO/youtube-downloader-pyqt6"
-Issues = "https://github.com/TU_USUARIO/youtube-downloader-pyqt6/issues"
-Releases = "https://github.com/TU_USUARIO/youtube-downloader-pyqt6/releases"
+Homepage = "https://github.com/KankoAr/Youtube-downloader-converter"
+Repository = "https://github.com/KankoAr/Youtube-downloader-converter"
+Issues = "https://github.com/KankoAr/Youtube-downloader-converter/issues"
+Releases = "https://github.com/KankoAr/Youtube-downloader-converter/releases"
 
 [tool.setuptools.packages.find]
 where = ["."]
